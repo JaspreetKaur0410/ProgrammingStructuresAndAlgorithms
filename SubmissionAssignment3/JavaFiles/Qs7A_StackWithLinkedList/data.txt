@@ -1,0 +1,10 @@
+1,Jack,Irwan,Software Engineering
+2,Billy,McKao,Requirement Engineering
+3,Nat,Mcfaden,Multivariate Calculus
+4,Steven,Shwimmer,Software Architecture
+5,Ruby,jason,Relational DBMS
+6,Mark,Dyne,PHP development
+7,Philip,namdaf,Microsoft Dot Net Platform
+8,Erik,Bawn,HTML & Scripting
+9,Ricky,ben,Data communication
+10,Van,Miecky,Computer Networks
